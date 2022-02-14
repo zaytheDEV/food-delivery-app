@@ -9,6 +9,6 @@ Thank you for taking the time to view my food delivery app. This was the second 
 
 <b>Features</b>
 <li>Restaurant Filtering</li>
-•	Quantity adjustment
-•	View the driver’s route
-•	Zoom in and out of the map
+<li>Quantity adjustment</li>
+<li>View the driver’s route</li>
+<li>Zoom in and out of the map</li>
