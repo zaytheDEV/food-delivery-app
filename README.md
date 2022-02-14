@@ -7,7 +7,7 @@
 
 Thank you for taking the time to view my food delivery app. This was the second app that I developed using React Native. As a front-end developer, the main purpose for this project was to demonstrate my ability for styling mobile apps with Tailwind. It also demonstrates my understanding and handling data structures and APIs.
 
-Features
+<b>Features</b>
 •	Restaurant Filtering 
 •	Quantity adjustment
 •	View the driver’s route
