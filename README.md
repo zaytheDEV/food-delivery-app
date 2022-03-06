@@ -8,6 +8,7 @@ https://zaythedev.com/food-delivery
 <li>JavaScript</li>
 <li>TailwindCSS</li>
 <li>Google API</li>
+<li>Redux</li>
 
 <b>Instructions for App</b>
 1.	Clone the repository
