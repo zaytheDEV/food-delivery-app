@@ -1,6 +1,6 @@
 # Food Delivery App
 
-PLease visit my portfolio to see video of the app
+PLease visit my portfolio to see video of the app </br>
 https://zaythedev.com/food-delivery
 
 <b>Stack</b>
