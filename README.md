@@ -1,5 +1,14 @@
 # Food Delivery App
 
+PLease visit my portfolio to see video of the app
+https://zaythedev.com/food-delivery
+
+<b>Stack</b>
+<li>React Native</li>
+<li>JavaScript</li>
+<li>TailwindCSS</li>
+<li>Google API</li>
+
 <b>Instructions for App</b>
 1.	Clone the repository
 2.	Download XCode or use VS Code and Expo Go to start a virtual mobile simulator
