@@ -7,7 +7,7 @@ https://zaythedev.com/food-delivery
 <li>React Native</li>
 <li>JavaScript</li>
 <li>TailwindCSS</li>
-<li>Google API</li>
+<li>Google Places / Directions API</li>
 <li>Redux</li>
 
 <b>Instructions for App</b>
